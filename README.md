@@ -2,7 +2,7 @@
 
 Simple Calculator using Java Swing.
 
-I wrote this Swing Program for my CS202 Lab Assignment at Cal State LA. I thought to share with you all.
+I wrote this Swing Program back in Spring 2008 for CS202 Lab Assignment at Cal State LA.
 
 # Output Screenshot
 
